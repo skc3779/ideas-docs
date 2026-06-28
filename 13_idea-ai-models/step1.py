@@ -26,12 +26,17 @@ DEFAULT_FEEDS = {
     "OpenAI Blog": "https://openai.com/blog/rss.xml"
 }
 
-def parse_args():
-    now = datetime.now().strftime("%Y-%m-%d_%H%M%S")
-    default_output = f"trends_data_1차_{now}.json"
 
+def parse_args():
+    import os
     parser = argparse.ArgumentParser(
         description="RSS 1차 수집: 제목/링크/원문링크(해당 시) JSON 생성"
+    )
+    parser.add_argument(
+        "-f",
+        "--folder",
+        default="10_idea-google-search",
+        help="대상 폴더 경로 (기본값: 10_idea-google-search)",
     )
     parser.add_argument(
         "-i",
@@ -39,21 +44,29 @@ def parse_args():
         default="",
         help=(
             "피드 설정 JSON 경로(선택). "
-            "미지정 시 내장 기본 피드 사용. "
-            "형식: {\"피드명\":\"URL\"} 또는 [{\"name\":\"...\",\"url\":\"...\"}]"
+            "미지정 시 폴더 내 rss-feeds.json 사용."
         ),
     )
     parser.add_argument(
         "-o",
         "--output-json",
-        default=default_output,
+        default="",
         help="출력 JSON 경로",
     )
-    return parser.parse_args()
+    args = parser.parse_args()
+
+    if not args.input_json:
+        args.input_json = os.path.join(args.folder, "rss-feeds.json")
+    if not args.output_json:
+        now = datetime.now().strftime("%Y-%m-%d_%H%M%S")
+        args.output_json = os.path.join(args.folder, f"trends_data_1차_{now}.json")
+
+    return args
 
 
 def load_feeds(input_json_path):
-    if not input_json_path:
+    import os
+    if not input_json_path or not os.path.exists(input_json_path):
         return DEFAULT_FEEDS
 
     with open(input_json_path, "r", encoding="utf-8") as f:
@@ -359,12 +372,8 @@ def main():
             except Exception as e:
                 print(f"Error fetching {name}: {e}")
 
-    out_payload = {
-        "실행시간": datetime.now().strftime("%Y-%m-%d_%H%M%S"),
-        "data": data
-    }
     with open(args.output_json, "w", encoding="utf-8") as f:
-        json.dump(out_payload, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
     print(f"1차 수집 완료. 총 항목 수: {len(data)}")
     print(f"저장 파일: {args.output_json}")

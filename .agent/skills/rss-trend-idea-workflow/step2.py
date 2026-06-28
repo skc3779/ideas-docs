@@ -12,24 +12,47 @@ import re
 from urllib.parse import urlparse
 
 def parse_args():
-    now = datetime.now().strftime("%Y-%m-%d_%H%M%S")
-    default_output = f"trends_data_2차_{now}.json"
+    import os
+    import glob
     parser = argparse.ArgumentParser(
         description="RSS 2차 수집: 원문 페이지 방문 후 요약 JSON 생성"
     )
     parser.add_argument(
+        "-f",
+        "--folder",
+        default="10_idea-google-search",
+        help="대상 폴더 경로 (기본값: 10_idea-google-search)",
+    )
+    parser.add_argument(
         "-i",
         "--input-json",
-        required=True,
-        help="1차 수집 결과 JSON 경로",
+        default="",
+        help="1차 수집 결과 JSON 경로 (미지정 시 대상 폴더의 최신 파일 자동 선택)",
     )
     parser.add_argument(
         "-o",
         "--output-json",
-        default=default_output,
+        default="",
         help="2차 수집 결과 JSON 경로",
     )
-    return parser.parse_args()
+    args = parser.parse_args()
+
+    if not args.input_json:
+        pattern = os.path.join(args.folder, "trends_data_1차_*.json")
+        files = glob.glob(pattern)
+        if files:
+            files.sort(key=os.path.getctime, reverse=True)
+            args.input_json = files[0]
+        else:
+            raise ValueError(f"대상 폴더({args.folder}) 내에 1차 수집 결과 파일이 없습니다.")
+    elif not os.path.isabs(args.input_json) and not args.input_json.startswith(args.folder):
+        args.input_json = os.path.join(args.folder, args.input_json)
+
+    if not args.output_json:
+        now = datetime.now().strftime("%Y-%m-%d_%H%M%S")
+        args.output_json = os.path.join(args.folder, f"trends_data_2차_{now}.json")
+
+    return args
 
 UA = {
     'User-Agent': (
@@ -220,10 +243,7 @@ def summarize(text):
 def main():
     args = parse_args()
     with open(args.input_json, 'r', encoding='utf-8') as f:
-        loaded_data = json.load(f)
-        
-    items = loaded_data.get("data", loaded_data) if isinstance(loaded_data, dict) else loaded_data
-    exec_time = loaded_data.get("실행시간", datetime.now().strftime("%Y-%m-%d_%H%M%S")) if isinstance(loaded_data, dict) else datetime.now().strftime("%Y-%m-%d_%H%M%S")
+        items = json.load(f)
 
     results = []
     ddgs = DDGS()
@@ -326,12 +346,8 @@ def main():
 
         results.append(item)
 
-    out_payload = {
-        "실행시간": exec_time,
-        "data": results
-    }
     with open(args.output_json, 'w', encoding='utf-8') as f:
-        json.dump(out_payload, f, ensure_ascii=False, indent=2)
+        json.dump(results, f, ensure_ascii=False, indent=2)
 
     print("2차 수집 완료.")
     print(f"입력 파일: {args.input_json}")
