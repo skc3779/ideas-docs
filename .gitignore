@@ -1,0 +1,6 @@
+.agent_sessions/
+.chat_history/
+.system-prompts/
+.venv/
+__pycache__/
+*.pyc

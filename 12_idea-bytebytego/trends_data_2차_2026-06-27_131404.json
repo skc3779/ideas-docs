@@ -1,0 +1,44 @@
+[
+  {
+    "source": "ByteByteGo",
+    "title": "Top Anti-Patterns to Avoid in Service Architecture",
+    "link": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "원문링크": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "요약정보": "A service architecture can end up slower to change, harder to operate, and less reliable than the single large system it replaced, and it can cost more to run while doing it. This is rarely the work of a careless team. How many decisions does it take to reach that point? It rarely takes a single bad one. The path to such a situation is built from individually sound choices, a clean separation here, an independent deployment there, a new service each time a part of the system felt distinct enough..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Large Language Models vs Small Language Models",
+    "link": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
+    "원문링크": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
+    "요약정보": "AI-assisted development has changed how code gets written, but for many teams, testing and governance haven’t caught up. Tricentis AI Workspace closes that gap, giving quality engineering leaders one place to build, orchestrate, and govern AIquality agents across the SDLC, from code risk analysis and test automation to performance validation so quality decisions happen continuously, not at the end. Less errors introduced by AI-generated code, more confidence in what you’re shipping. Discoverhow ..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "An Ex-Meta L8’s Agentic Engineering Setup",
+    "link": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
+    "원문링크": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
+    "요약정보": "Most teams pick a search provider by running a few test queries and hoping for the best – a recipe for hallucinations and unpredictable failures.This technical guidefromYou.comgives you access to an exact framework to evaluate AI search and retrieval. A four-phase framework for evaluating AI search How to build a golden set of queries that predicts real-world performance Metrics and code for measuring accuracy Go from “looks good” to proven quality. Learn how to run an eval This is a guest post ..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+    "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+    "원문링크": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. There’s plenty of great Apple deals left on the final day of Prime Day 2026. Posts from this author will be added to your daily email digest and your homepage feed. See All bySheena Vasani If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement. See All bySheena Vasani Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless ea..."
+  },
+  {
+    "source": "The Verge",
+    "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+    "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+    "원문링크": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. As the selling event winds down there’s still lots of deals to pick from. Posts from this author will be added to your daily email digest and your homepage feed. See All byBrad Bourque If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement. See All byBrad Bourque We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We..."
+  },
+  {
+    "source": "The Verge",
+    "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
+    "link": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+    "원문링크": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. See AllVerge Shopping From Apple devices to smart fans and bird feeders, here are all the interesting things our readers are actually buying. From Apple devices to smart fans and bird feeders, here are all the interesting things our readers are actually buying. Posts from this author will be added to your daily email digest and your homepage feed. See All bySheena Vasani If you buy something from a Verge link,..."
+  }
+]

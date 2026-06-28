@@ -1,0 +1,44 @@
+[
+  {
+    "source": "ByteByteGo",
+    "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
+    "link": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "원문링크": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "요약정보": "If slow QA processes bottleneck you or your software engineering team and you’re releasing slower because of it — you need to check out QA Wolf. QA Wolf’s AI-native servicesupports web and mobile apps, delivering 80% automated test coverage in weeks and helping teamsship 5x fasterby reducing QA cycles to minutes. QA Wolftakes testing off your plate. They can get you: Unlimited parallel test runs for mobile and web apps 24-hour maintenance and on-demand test creation Human-verified bug reports se..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Top Anti-Patterns to Avoid in Service Architecture",
+    "link": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "원문링크": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "요약정보": "A service architecture can end up slower to change, harder to operate, and less reliable than the single large system it replaced, and it can cost more to run while doing it. This is rarely the work of a careless team. How many decisions does it take to reach that point? It rarely takes a single bad one. The path to such a situation is built from individually sound choices, a clean separation here, an independent deployment there, a new service each time a part of the system felt distinct enough..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Large Language Models vs Small Language Models",
+    "link": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
+    "원문링크": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
+    "요약정보": "AI-assisted development has changed how code gets written, but for many teams, testing and governance haven’t caught up. Tricentis AI Workspace closes that gap, giving quality engineering leaders one place to build, orchestrate, and govern AIquality agents across the SDLC, from code risk analysis and test automation to performance validation so quality decisions happen continuously, not at the end. Less errors introduced by AI-generated code, more confidence in what you’re shipping. Discoverhow ..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+    "link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+    "원문링크": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. The OS 2.5 update is one of its biggest yet. Posts from this author will be added to your daily email digest and your homepage feed. See All byTerrence O'Brien Posts from this author will be added to your daily email digest and your homepage feed. See All byTerrence O'Brien Teenage Engineering has already issued multiple substantialupdatesfor its surprisingly capable $329EP-133 KO II sampler. Its latest is one..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "원문링크": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. The Handmaid’s Tale author tried Claude exactly once, and wasn’t impressed. Posts from this author will be added to your daily email digest and your homepage feed. See All byTerrence O'Brien Posts from this author will be added to your daily email digest and your homepage feed. See All byTerrence O'Brien Maraget Atwood, the storied author ofThe Handmaid’s TaleandThe Blind Assassin, was interviewed as part of t..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+    "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+    "원문링크": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. The company can legally buy RAM from CXMT, but it would carry serious reputational risks. Posts from this author will be added to your daily email digest and your homepage feed. See All byTerrence O'Brien Posts from this author will be added to your daily email digest and your homepage feed. See All byTerrence O'Brien Apple is looking to alleviate some of the pressure on its supply chain byseeking an exception..."
+  }
+]

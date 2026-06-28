@@ -1,0 +1,67 @@
+{
+  "실행시간": "2026-06-27_131407",
+  "data": [
+    {
+      "source": "The Rundown AI",
+      "title": "White House reins in OpenAI's GPT-5.6",
+      "link": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "원문링크": "https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6",
+      "요약정보": "PLUS: Give your AI agent a credit card (safely) Read Online|Sign Up|Advertise Good morning, {{ first_name | AI enthusiasts }}.Anthropic isn’t the only one facing blowback for building a powerful AI model. OpenAI is now pretty much in the same position — for the same reason. The White House has asked the company to limit the release of its next major model, GPT-5.6, as it brings “Mythos-like” capabilities and requires thorough testing before wider availability to the public. In today’s AI rundown..."
+    },
+    {
+      "source": "The Rundown AI",
+      "title": "OpenAI's spicy new custom AI chip",
+      "link": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "원문링크": "https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip",
+      "요약정보": "PLUS: Get a deal on World Cup tickets with AI price tracking Read Online|Sign Up|Advertise Good morning, {{ first_name | AI enthusiasts }}.Back in October, OpenAI and Broadcom said they'd build custom chips together. Nine months later, the first one is running in the lab — and OpenAI's own AI helped build it. Jalapeño is OpenAI's spicy entry into owning its own compute layer, with \"substantially better than current state-of-the-art\" performance claims that could give the AI giant a serious effic..."
+    },
+    {
+      "source": "The Rundown AI",
+      "title": "Meet your new Slack coworker — Claude",
+      "link": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "원문링크": "https://www.therundown.ai/p/meet-your-new-slack-coworker-claude",
+      "요약정보": "PLUS: Build a Clippy-like desktop pet for Codex Read Online|Sign Up|Advertise Good morning, {{ first_name | AI enthusiasts }}.Your Slack workspace has a new coworker — Claude. Anthropic just debuted Claude Tag, which brings the agentic capabilities previously limited to Claude Code and Cowork into Slack channels, enabling entire teams to simply tag the AI to handle tasks ranging from engineering to marketing. In today’s AI rundown: Claude joins Slack as an agentic coworker Meta doubles down on A..."
+    },
+    {
+      "source": "Stratechery",
+      "title": "2026.26: Summer Vibes",
+      "link": "https://stratechery.com/2026/summer-vibes/",
+      "요약정보": "실패 사유: 제목 키워드 일치 부족(0), 시도 URL: https://open.spotify.com/playlist/6JYzn3DAflv4dqLF1cVQJf, https://open.spotify.com/playlist/2mnnxFRYS5irftvkDxRBQ8, https://parade.com/food/target-new-icon-glasses-summer-2026"
+    },
+    {
+      "source": "Stratechery",
+      "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+      "link": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "원문링크": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "요약정보": "Learn MoreMember Forum Learn MoreMember Forum This week’s Stratechery interview is with Figma co-founder and CEODylan Field. Field was a Thiel Fellow who dropped out of Brown in 2012 to start Figma. Figma was born of a technical breakthrough that leveraged WebGL to deliver powerful graphical capabilities in the browser; the browser made Figma collaborative, what I callthe operating system of design. Figma has had a fascinating road: the company accepted an acquisition offer from Adobe in 2022, b..."
+    },
+    {
+      "source": "Stratechery",
+      "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+      "link": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+      "원문링크": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+      "요약정보": "Learn MoreMember Forum Learn MoreMember Forum My experience and reflections on vibe coding an app that I plan on actually using regularly. Subscribe to Stratechery Plus for full access. $15/ monthor$150/ year With Stratechery Plus you get access to the subscriber-onlyStratechery UpdateandStratechery Interviews, and the Sharp Tech, Sharp China, Dithering, Greatest of All Talk, and Asianometry podcasts. Stratechery UpdateSubstantial analysis of the news of the day delivered via three weekly emails..."
+    },
+    {
+      "source": "Simon Willison's Blog",
+      "title": "Quoting Dean W. Ball",
+      "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+      "원문링크": "https://letsdatascience.com/news/dean-w-ball-frames-ai-governance-and-diffusion-04ca8e6b",
+      "요약정보": "Simon Willison highlighted Antoine Buteau's curated compilation 'Lessons from Dean W. Ball,' a 60-plus quote profile ofDean W. Ball, Research Fellow at theMercatus Center(and incoming OpenAI Strategic Futures lead, starting July 6). The piece draws from Ball's newsletter Hyperdimensional and podcast appearances to document his governance stance: AI is better understood as a discovery than an invention; diffusion and public infrastructure matter more than model-level regulation; and state agility..."
+    },
+    {
+      "source": "Simon Willison's Blog",
+      "title": "Quoting Timothy B. Lee",
+      "link": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+      "원문링크": "https://wpnews.pro/news/quoting-timothy-b-lee",
+      "요약정보": "cd/news/large-language-models/quoting-timothy-b-lee·home›topics›large-language-models›article [ARTICLE · art-41332]src=simonwillison.net ↗pub=2026-06-26T21:15Ztopic=large-language-modelsverified=truesentiment=· neutral read1 minviews7publishedJun 26, 2026$ copy permalink$ source$ cite (json) 26th June 2026This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do.—Timothy B. Lee, on the idea that LLMs take no skill and have n..."
+    },
+    {
+      "source": "Simon Willison's Blog",
+      "title": "What happened after 2,000 people tried to hack my AI assistant",
+      "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+      "원문링크": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+      "요약정보": "26th June 2026 - Link Blog What happened after 2,000 people tried to hack my AI assistant(via) Fernando Irarrázaval ran a challenge onhackmyclaw.comto see if anyone could leak secrets held by his OpenClaw test instance by sending it email. Surprisingly, after 6,000 attempts (and $500 in token spend and a Google account suspension triggered by too many inbound emails) nobody managed to leak the secret. The underlying model was Opus 4.6, with the following prompt: This matches something I've been ..."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "Google 트렌드": "https://trends.google.com/trending/rss?geo=KR",
+    "Google 전체 뉴스": "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
+    "Google 경제 뉴스": "https://news.google.com/rss/search?q=경제&hl=ko&gl=KR&ceid=KR:ko",
+    "Google 과학 뉴스": "https://news.google.com/rss/search?q=과학&hl=ko&gl=KR&ceid=KR:ko",
+    "Google AI 뉴스": "https://news.google.com/rss/search?q=AI&hl=ko&gl=KR&ceid=KR:ko"
+}
