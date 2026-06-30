@@ -1,0 +1,44 @@
+[
+  {
+    "source": "geeknews",
+    "title": "EU 연령 확인, 무엇이 문제인가? (없음)",
+    "link": "https://news.hada.io/topic?id=30973",
+    "원문링크": "https://ttj.kr/tech-news/eu-연령확인-앱-출시-2분-만에-뚫렸다-무엇이-문제였나",
+    "요약정보": "서비스 이용을 위해 휴대전화 번호를 입력해주세요. 무료 회원가입가입비 없이 무료로 가입할 수 있습니다 EU는 최근 몇 년간 \"미성년자 온라인 보호\"를 최우선 과제 중 하나로 삼고 있어요. 포르노 사이트나 SNS 접속 시 나이를 확인하는 의무를 법제화하려는 움직임이 여러 나라에서 진행 중이고요. 그 일환으로 EU 집행위원회가 공개한 게\"EU Age Verification App\", 즉 공식 연령확인 앱이에요. 개인정보는 최소한으로 공개하면서 \"이 사람은 18세 이상이다\" 같은 사실만 증명해주는,제로 지식 증명(Zero-Knowledge Proof)기반의 야심찬 설계였거든요. 그런데 앱이 공개되자마자 보안 연구자들이2분 만에 우회에 성공했다는 소식이 전해졌어요. 보안 연구자가 공개한 분석에 따르면 공격 방법은 허무할 정도로 단순했어요. 앱은 안드로이드 기준으로Play Integrity API(기존 SafetyNet의 후속)를 이용해 \"이 앱이 변조되지 않은 정품 환경에서 돌고 있다\"는 ..."
+  },
+  {
+    "source": "geeknews",
+    "title": "Show GN: AI한테 메일 맡기지 마라 — 인박스엔 비서가 아니라 &#039;방화벽&#039;이 필요하다 (오픈소스)",
+    "link": "https://news.hada.io/topic?id=30972",
+    "원문링크": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=631678",
+    "요약정보": "[디지털투데이 손슬기 기자] 최근 테크업계 뜨거운 감자인 '오픈클로(OpenClaw)'를 사용해봤다. 오픈클로는 사용자 컴퓨터 로컬 환경에서 돌아가는 오픈소스 AI 에이전트 프레임워크로 텔레그램, 슬랙, 디스코드 등과 연동해 쓸 수 있다. 브라우저 자동화, 메시징 플랫폼 연동, 파일 관리 등 다양한 기능을 제공하는데 직접 써본 입장에선 유용성은 좀 글쎄다. 전공이 음악인 탓에 멀티미디어용 노드 방식 객체지향형 언어인 맥스(Max)를 써봤을 뿐이다. 그래서 '비개발자 오픈클로 설치 성공'과 같은 키워드로 유튜브를 검색해, 콘텐츠를 제미나이로 요약한 후 설치법을 따라했다. 그런 만큼 오픈클로에 대한 평가는 기자 개인적인 경험에 기반하고 있음을 미리 밝혀둔다. 터미널에서 'npm install -g openclaw'라는 명령어를 입력하는 것만으로 가능했다. 문제는 설치 후 AI 모델 연결에서 발생했다. 제미나이를 연결했는데, 월 20달러짜리 요금제를 쓰고 있어 추가 요금이 안 들 것 같았..."
+  },
+  {
+    "source": "geeknews",
+    "title": "Show GN: 실제 사람처럼 테스트를 수행하는 SaaS",
+    "link": "https://news.hada.io/topic?id=30971",
+    "원문링크": "https://www.industrynews.co.kr/news/articleView.html?idxno=80525",
+    "요약정보": "기사검색로그인회원가입기사제보뉴스레터신청전체뉴스산업테크AI경제·금융정치·정책오피니언피플국제종합전체뉴스산업테크AI경제·금융정치·정책오피니언피플국제종합'2배 베팅' 단일종목 레버리지 ETF, 출시 한 달 만에 '초단타 놀이터'로SK하이닉스, 서남권에 400조원 투자…AI 반도체 클러스터 조성삼성, 호남에 425조원 투자…광주 반도체 클러스터 조성코스피, 장중 446포인트 널뛰기 끝에 8476선 마감…외국인 8거래일째 '팔자'스크롤 이동 상태바산업[현장] 백창열 NHN두레이 대표 \"실제 사람처럼 상호작용하는 AI에이전트로 업무방식 혁신\"28일, NHN두레이 AI 협업도구 기자간담회Dooray!AI, 공공·금융 부문 중심 AX 혁신 지원공공·금융 부문 국내 1위 사업자로 자리매김문기수 기자입력 2026.04.29 09:23댓글 0글자크기 설정가가기사의 본문 내용은 이 글자크기로 변경됩니다.이 기사를 공유합니다백창열 NHN두레이 대표가 28일 경기도 성남시 NHN본사에서 진행된 기자회견에서 A..."
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "원문링크": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "요약정보": "The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.Register now. Founder Summitticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.REGISTER NOW. Media & Entertainment TechCrunch Brand Studio Proton, the privacy-focused productivity app company, releaseda public AI chatbot, Lumo,last year. On Tuesday, the chatbot received an upgrade. Lumo 2.0 gives the chatbot a variety of newfound powers, including image recognition and image generati..."
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+    "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "원문링크": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "요약정보": "The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.Register now. Founder Summitticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.REGISTER NOW. Media & Entertainment TechCrunch Brand Studio When AI agents begin working for people — and increasingly for one another — they will need a way to find jobs, pay for services, and build trust. Crypto exchangeOKXis betting that future is closer than many expect, launching a marketplace where A..."
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "The AI jobs debate just got messier",
+    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "원문링크": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "요약정보": "The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.Register now. Founder Summitticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.REGISTER NOW. Media & Entertainment TechCrunch Brand Studio AI-related job loss fears grow each time another companyannounces a round of layoffs. Through May of 2026, companies announced that close to90,000 job cutswere tied to AI, and, by some accounts, up to 15% of U.S. jobs areprojectedto beeliminated b..."
+  }
+]

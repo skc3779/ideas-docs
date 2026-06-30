@@ -1,0 +1,44 @@
+[
+  {
+    "source": "ByteByteGo",
+    "title": "How AI Agents Manage Memory and Avoid Forgetfulness",
+    "link": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "원문링크": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "요약정보": "When devs use AI to generate thousands of lines of unverified code, you risk a codebase slopocalypse. The review step becomes your team’s bottleneck, and the last thing standing between a subtle bug and production. Greptile reviews each PR with full repo context and learns your team’s conventions over time from comments, reactions, and what gets merged. It flags real issues and suggests fixes that match your team, not generic best practices. ✅ Recently launchedTREXruns your code, not just reads ..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
+    "link": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "원문링크": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "요약정보": "If slow QA processes bottleneck you or your software engineering team and you’re releasing slower because of it — you need to check out QA Wolf. QA Wolf’s AI-native servicesupports web and mobile apps, delivering 80% automated test coverage in weeks and helping teamsship 5x fasterby reducing QA cycles to minutes. QA Wolftakes testing off your plate. They can get you: Unlimited parallel test runs for mobile and web apps 24-hour maintenance and on-demand test creation Human-verified bug reports se..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Top Anti-Patterns to Avoid in Service Architecture",
+    "link": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "원문링크": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "요약정보": "A service architecture can end up slower to change, harder to operate, and less reliable than the single large system it replaced, and it can cost more to run while doing it. This is rarely the work of a careless team. How many decisions does it take to reach that point? It rarely takes a single bad one. The path to such a situation is built from individually sound choices, a clean separation here, an independent deployment there, a new service each time a part of the system felt distinct enough..."
+  },
+  {
+    "source": "The Verge",
+    "title": "The Supreme Court stops Trump&#8217;s attempt to end birthright citizenship",
+    "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+    "원문링크": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. Justices ruled 6-3 against Trump’s effort to gut the 14th Amendment. Posts from this author will be added to your daily email digest and your homepage feed. See All byGaby Del Valle Posts from this author will be added to your daily email digest and your homepage feed. See All byGaby Del Valle The Supreme Court upheld birthright citizenship, ruling 6-3 against President Donald Trump’s effort to end the longsta..."
+  },
+  {
+    "source": "The Verge",
+    "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
+    "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+    "원문링크": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. A data breach at a supplier reportedly leaked iPhone 18 Pro pictures and videos. Posts from this author will be added to your daily email digest and your homepage feed. Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spottedearlier byMacRumors. An account imitating leaker EvLeaks was suspended from X after sharing the clips, while the post ..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Meet the lawyer who beat Elon Musk — twice",
+    "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+    "원문링크": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. Walk softly and carry a Fender Telecaster. Posts from this author will be added to your daily email digest and your homepage feed. See All byElizabeth Lopatto Posts from this topic will be added to your daily email digest and your homepage feed. See All byElizabeth Lopatto Posts from this author will be added to your daily email digest and your homepage feed. See All byElizabeth Lopatto Watching Elon Musk fulm..."
+  }
+]

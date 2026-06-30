@@ -1,0 +1,23 @@
+[
+  {
+    "source": "OpenAI Blog",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "원문링크": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "요약정보": "How the EU’s mix of occupations and institutions can shape where AI supports growth, redesigns work, and encourages adaptation AI capabilities can cross borders quickly. Jobs do not change in such a frictionless way. Work is shaped by licensing systems, local institutions, and the practical realities of delivering care, education, justice, public services, and other forms of human support. These systems matter because they help determine if and how AI changes the labor market. What will AI’s lab..."
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "원문링크": "https://openai.com/index/hp-frontier-partnership",
+    "요약정보": "Enterprise transformation rarely starts all at once. More often, it begins when small teams prove a new way of working is possible. That was the case with HP Inc., which just announced it will scale activation of itsOpenAI Frontierstrategic partnership, following a series of successful pilots across different areas. The strategic partnership extends how HP is deploying frontier capabilities to help its global efforts to enhance customer-facing experiences and accelerate transformation across its..."
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "원문링크": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "요약정보": "We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost. GPT‑5.6 Sol launches with our most robust safety stack to date. We strengthened protections for higher-risk activity, sensitive cyber requests, and repeated misuse, and spent multiple weeks finding weaknesses, pres..."
+  }
+]

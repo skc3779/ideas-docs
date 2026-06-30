@@ -1,0 +1,44 @@
+[
+  {
+    "source": "ByteByteGo",
+    "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
+    "link": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "원문링크": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "요약정보": "If slow QA processes bottleneck you or your software engineering team and you’re releasing slower because of it — you need to check out QA Wolf. QA Wolf’s AI-native servicesupports web and mobile apps, delivering 80% automated test coverage in weeks and helping teamsship 5x fasterby reducing QA cycles to minutes. QA Wolftakes testing off your plate. They can get you: Unlimited parallel test runs for mobile and web apps 24-hour maintenance and on-demand test creation Human-verified bug reports se..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Top Anti-Patterns to Avoid in Service Architecture",
+    "link": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "원문링크": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "요약정보": "A service architecture can end up slower to change, harder to operate, and less reliable than the single large system it replaced, and it can cost more to run while doing it. This is rarely the work of a careless team. How many decisions does it take to reach that point? It rarely takes a single bad one. The path to such a situation is built from individually sound choices, a clean separation here, an independent deployment there, a new service each time a part of the system felt distinct enough..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Large Language Models vs Small Language Models",
+    "link": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
+    "원문링크": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
+    "요약정보": "AI-assisted development has changed how code gets written, but for many teams, testing and governance haven’t caught up. Tricentis AI Workspace closes that gap, giving quality engineering leaders one place to build, orchestrate, and govern AIquality agents across the SDLC, from code risk analysis and test automation to performance validation so quality decisions happen continuously, not at the end. Less errors introduced by AI-generated code, more confidence in what you’re shipping. Discoverhow ..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling",
+    "link": "https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking",
+    "원문링크": "https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. After taking over Weber, Blackstone founder Roger Dahle’s new job is integrating his griddle empire with what used to be his biggest competitor. If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement. Posts from this author will be added to your daily email digest and your homepage feed. See All byNilay Patel If you buy something from a Verge link, Vox Media may earn a..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Rocket Lab is buying Iridium&#8217;s satellite network for $8 billion to take on SpaceX",
+    "link": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications",
+    "원문링크": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. Iridium’s constellation of 66 satellites provides communications for 2.5 million subscribers. Posts from this author will be added to your daily email digest and your homepage feed. Rocket Lab, the space company best known for itssmall satellite launcherElectron, hasannounced plans to acquireIridium Communications for $8 billion. The deal will combine Rocket Lab’s launch services and spacecraft manufacturing w..."
+  },
+  {
+    "source": "The Verge",
+    "title": "The Flipper Zero creators’ Busy Bar productivity display will go on sale next month",
+    "link": "https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale",
+    "원문링크": "https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. The focus-enhancing device is still priced at $249, but the first 3,000 units will be discounted to $199. Posts from this author will be added to your daily email digest and your homepage feed. See All byAndrew Liszewski Posts from this author will be added to your daily email digest and your homepage feed. See All byAndrew Liszewski Firstannounced over a year ago in April 2025, theBusy Barwill be available fo..."
+  }
+]
