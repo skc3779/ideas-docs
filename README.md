@@ -23,9 +23,18 @@
 
 ```
 06_ideas-docs/
+├── .claude/
+│   └── skills/
+│       └── rss-trend-idea-workflow/    # ★ Claude Code 스킬 (v2, 권장)
+│           ├── SKILL.md                # Claude 실행 지침
+│           ├── GUIDE.md                # 따라하기 가이드 (v2)
+│           ├── scripts/                # step1.py · step2.py · check_outputs.py
+│           ├── references/             # 아이디어 도출/점수 규칙
+│           └── templates/              # 보고서 템플릿
+│
 ├── .agent/
 │   └── skills/
-│       └── rss-trend-idea-workflow/    # 스킬 정의 및 실행 스크립트
+│       └── rss-trend-idea-workflow/    # Antigravity용 스킬 (v1)
 │           ├── SKILL.md                # 스킬 메인 가이드
 │           ├── GUIDE_v1.md             # 사용 가이드 (v1)
 │           ├── step1.py                # 1차 RSS 피드 수집 스크립트
@@ -87,7 +96,16 @@ pip install feedparser requests beautifulsoup4 duckduckgo-search googlenewsdecod
 
 ---
 
-### AI 에이전트를 통한 실행 (권장)
+### Claude Code 스킬로 실행 (권장, v2)
+
+```
+/rss-trend-idea-workflow 10_idea-google-search
+/rss-trend-idea-workflow all
+```
+
+단계별 따라하기와 v1 대비 개선 사항은 [.claude/skills/rss-trend-idea-workflow/GUIDE.md](.claude/skills/rss-trend-idea-workflow/GUIDE.md)를 참고하세요.
+
+### AI 에이전트를 통한 실행 (Antigravity, v1)
 
 Antigravity IDE (또는 호환 AI 에이전트)에서 슬래시 커맨드로 전체 파이프라인을 자동 실행합니다.
 

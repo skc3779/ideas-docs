@@ -279,3 +279,9 @@
 
 ---
 
+다음 조건에 만족하는 작업을 진행해줘.
+- 당신을 claude 전문가 스킬작성 입니다.
+- `.agent\skills\rss-trend-idea-workflow` 에 있는 rss-trend-idea-workflow 스킬을 분석한다.
+- rss-trend-idea-workflow 스킬을 클로드 스킬추가하고 개선할 점이 발견되면 개선 한다.
+- 클로드 스킬에 추가된 가이드도 함께 개선점을 포함해서 다시 작서한다.
+- 사용법은 따라하기 씩으로 쉽게 작성한다.

@@ -1,0 +1,44 @@
+[
+  {
+    "source": "geeknews",
+    "title": "Show GN: Branch of Thought – Claude·ChatGPT 대화의 숨은 분기를 그래프로 보여주는 크롬 확장",
+    "link": "https://news.hada.io/topic?id=31007",
+    "원문링크": "https://chromewebstore.google.com/detail/chatgpt-branch-tree/mahfdeolgojimknkjnlhmpogjcnaeknk?hl=ko",
+    "요약정보": "Visualize ChatGPT conversation, display user messages and chat branches as an interactive tree with navigation and branch history. ChatGPT Branch Tree turns your conversations into an interactive, navigable tree so you never lose track of branches. It’s a side panel for chat.openai.com/chatgpt.com (ChatGPT) that:\n\n  - Automatically tracks “Branch in new chat” events and shows parent/child threads as a clear tree, including nested branches. - Lets you click any node to scroll to the exact message..."
+  },
+  {
+    "source": "geeknews",
+    "title": "TS 컴파일러로 만든 코드 그래프 MCP, Claude Code 토큰 10배 절감",
+    "link": "https://news.hada.io/topic?id=31006",
+    "원문링크": "https://coderred.com/posts/2025/10/serena-mcp-claude-code-70-percent-token-reduction/",
+    "요약정보": "Claude Code 쓰다가 토큰 한계 때문에 작업을 중단한 경험 있으신가요? 그런데 Serena MCP를 알게 된 순간, 모든 게 바뀌었어요. Claude Code는 정말 강력한 도구입니다. 터미널에서 코딩을 도와주는 AI 어시스턴트로, 처음 써봤을 때 “이거 진짜 편하네!” 했죠. 파일 하나 읽는데 토큰을 엄청나게 먹어치우더라고요.“이 함수 어디 있지?” 물어보면 전체 프로젝트를 다 결과는?한 시간도 안 돼서 일일 한계 도달.😅 월 $100 유료 플랜을 쓰더라도, 큰 프로젝트에선 금방 한계에 부딪힙니다. 이게 바로 현재 AI 코딩 도구들의 고질적인 문제죠. 그러던 중 발견한 게Serena MCP입니다. 검색 결과를 보니 “토큰을 최대 70%까지 절약한다\"는 후기가 있더라고요. 반신반의하며 써봤는데… 커뮤니티 피드백에 따르면 실제로 많은 개발자들이 60-70%의 토큰 절감 효과를 체감하고 있었어요."
+  },
+  {
+    "source": "geeknews",
+    "title": "주거용 프록시의 위협",
+    "link": "https://news.hada.io/topic?id=31005",
+    "원문링크": "https://www.ipdeep.com/ko/resources/what-is-residential-proxy",
+    "요약정보": "디지털 시대에 거의 모든 온라인 활동은 IP 주소와 관련이 있습니다. IP 주소는 장치의 네트워크 정체성을 식별할 뿐만 아니라 콘텐츠에 대한 접근 권한과 보안을 결정합니다. 주거용 프록시는 실제 주거 IP를 통해 사용자에게 인터넷 접근 서비스를 제공하는 특별한 유형의 프록시 IP입니다. 데이터 센터 프록시와 비교할 때, 주거용 프록시는 더 많은 진정성과 은폐를 제공하여 국경 간 전자상거래, 데이터 수집, 계정 관리, SEO 최적화 및 기타 시나리오에 더 적합합니다. 기업들이 데이터 수집, 국경 간 전자상거래 및 온라인 개인 정보 보호를 점점 더 요구함에 따라 주거용 프록시 시장은 계속 성장하고 있습니다. 주거용 프록시 서버의 시장 규모는 2025년까지 1억 2203만 달러에 도달할 것으로 예상되며, 2030년까지 1억 4833만 달러에 이를 것으로 보이며, 예측 기간(2025-2030) 동안 연평균 성장률은 3.98%입니다. (출처) 주거용 프록시는 ISP(인터넷 서비스 제공업체)에..."
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "The ‘Father of the Internet’ is finally retiring",
+    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "원문링크": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "요약정보": "Media & Entertainment TechCrunch Brand Studio Vinton Cerf will step down from his role as Google’s chief internet evangelist next week, marking the conclusion of one of the most influential careers in technology history. While speaking via video feed at theOpen Frontier conferencehosted by the Laude Institute, Cerf was recognized by Dave Patterson, the UC Berkeley professor best known for co-developing RISC processor architecture. “Vint … has been at Google more than 20 years, and he is retiring..."
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "원문링크": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "요약정보": "Media & Entertainment TechCrunch Brand Studio The U.S. has lifted a requirement that Anthropic obtain a license before exporting its Mythos and Fable models abroad, a requirement that effectively cut off public access to what are widely considered the most advanced AI models released to date. The AI lab said it would begin restoring access to the models on Wednesday, July 1. On June 12, the U.S. government had added the products to its list of export-restricted technologies, meaning they could n..."
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "원문링크": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "요약정보": "Media & Entertainment TechCrunch Brand Studio Wayve, a U.K.-based self-driving tech startup, is allowing its employees to sell a portion of their vested equity. The $85 million tender offer — essentially a structured opportunity for employees to sell shares back to investors — is being led by the company’s existing and new investors at the company’s latest valuation of$8.5 billion. That valuation was set in February when the nine-year-old company raised a $1.2 billion Series D led by Eclipse, Ba..."
+  }
+]

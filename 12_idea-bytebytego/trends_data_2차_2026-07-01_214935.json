@@ -1,0 +1,44 @@
+[
+  {
+    "source": "ByteByteGo",
+    "title": "Inside Thinking Machines’ Interaction Models",
+    "link": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
+    "원문링크": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
+    "요약정보": "Runnpx workos@latestand an AI agent will inspect your project, detect your framework, and add AuthKit directly to your codebase. This is not a generic starter template. The agent reads your actual app, writes the integration where it belongs, then typechecks and builds so it can fix errors along the way. AuthKit gives you hosted auth, customizable UI, MFA, social login, session management, and a path to enterprise features like SSO and SCIM when you need them. Free up to 1 million MAUs. What fee..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How AI Agents Manage Memory and Avoid Forgetfulness",
+    "link": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "원문링크": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "요약정보": "When devs use AI to generate thousands of lines of unverified code, you risk a codebase slopocalypse. The review step becomes your team’s bottleneck, and the last thing standing between a subtle bug and production. Greptile reviews each PR with full repo context and learns your team’s conventions over time from comments, reactions, and what gets merged. It flags real issues and suggests fixes that match your team, not generic best practices. ✅ Recently launchedTREXruns your code, not just reads ..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
+    "link": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "원문링크": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "요약정보": "If slow QA processes bottleneck you or your software engineering team and you’re releasing slower because of it — you need to check out QA Wolf. QA Wolf’s AI-native servicesupports web and mobile apps, delivering 80% automated test coverage in weeks and helping teamsship 5x fasterby reducing QA cycles to minutes. QA Wolftakes testing off your plate. They can get you: Unlimited parallel test runs for mobile and web apps 24-hour maintenance and on-demand test creation Human-verified bug reports se..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Sony is closing the PS3 and Vita digital stores",
+    "link": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
+    "원문링크": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. The virtual PS3 store will close in select markets this year, with global closures for PS3 and PS Vita following in 2027. Posts from this author will be added to your daily email digest and your homepage feed. See All byJess Weatherbed Posts from this author will be added to your daily email digest and your homepage feed. See All byJess Weatherbed It’s the end of an era for the PlayStation store on PS3 and PS ..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Sony is killing all physical PlayStation game discs",
+    "link": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
+    "원문링크": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. ﻿New games released after January 2028 will be digital-only. Posts from this author will be added to your daily email digest and your homepage feed. See All byDominic Preston Posts from this author will be added to your daily email digest and your homepage feed. See All byDominic Preston Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. ..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "원문링크": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. The Google Home Speaker nails the hardware, but Gemini for Home isn’t the assistant we’ve been waiting for. If you buy something from a Verge link, Vox Media may earn a commission.See our ethics statement. Posts from this author will be added to your daily email digest and your homepage feed. See All byJennifer Pattison Tuohy If you buy something from a Verge link, Vox Media may earn a commission.See our ethic..."
+  }
+]

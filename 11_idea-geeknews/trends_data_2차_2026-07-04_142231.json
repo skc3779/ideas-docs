@@ -1,0 +1,44 @@
+[
+  {
+    "source": "geeknews",
+    "title": "미국의 개인정보 비상사태",
+    "link": "https://news.hada.io/topic?id=31116",
+    "원문링크": "https://ttj.kr/article/미국의-프라이버시-비상사태-개발자가-남-일로-볼-수-없는-이유",
+    "요약정보": "양자컴퓨팅 이론가 스콧 애런슨이 이례적으로 강한 경고를 올렸다. 핵심은 미국 정부가 여러 기관에 흩어져 있던 시민 개인정보—세금, 의료, 이민, 복지 기록—를 하나로 통합해 사실상 전 국민 감시용 데이터베이스를 구축하고 있다는 것이다. 그는 미국의 프라이버시를 오랫동안 지켜온 진짜 방어선이 강력한 법이 아니라 '데이터가 여기저기 흩어져 있다는 사실' 자체였는데, 그 분산이 지금 빠르게 무너지고 있다고 본다. 더 무서운 지점은 이것이 특정 정파의 문제가 아니라, 한번 만들어진 통합 감시 인프라는 정권이 바뀌어도 그대로 남아 누구에게든 악용될 수 있다는 경고다. IT 종사자에게 주는 함의는 분명하다. 데이터 최소화, 접근 통제, 감사 로그 같은 설계 원칙이 단순한 모범 사례가 아니라 시민의 자유를 지키는 마지막 안전장치라는 점, 그리고 우리가 무심코 만드는 통합 시스템이 얼마나 쉽게 감시 도구로 전용될 수 있는지 되돌아보게 한다."
+  },
+  {
+    "source": "geeknews",
+    "title": "에이전트 자율성 수준",
+    "link": "https://news.hada.io/topic?id=31115",
+    "원문링크": "https://m.blog.naver.com/PostView.naver?blogId=hanksi&logNo=223987546803",
+    "요약정보": "AI 에이전트 vs Agentic AI: 개념부터 차이점까지 상세 분석 by Gemini 최근 인공지능(AI) 분야에서 가장 주목받는 두 가지 키워드는 **AI 에이전트(AI Agent)**와 **에이전틱 AI(Agentic AI)**입니다. 두 용어는 종종 혼용되기도 하지만, 자율성, 목표 설정, 아키텍처 측면에서 본질적인 차이를 가집니다. 간단히 말해, **AI 에이전트는 주어진 작업을 자율적으로 수행하는 '실행자'**에 가깝다면, **Agentic AI는 스스로 목표를 설정하고 여러 에이전트를 조율하며 복잡한 과업을 해결하는 '지능형 시스템' 또는 '패러다임'**에 해당합니다. AI 에이전트(AI Agent): 지능적인 작업 실행자 🤖 AI 에이전트는 사용자를 대신하여 특정 목표를 달성하거나 작업을 완료하도록 설계된 소프트웨어 시스템입니다. 이들은 환경을 인식하고(Perception), 추론과 계획(Reasoning & Planning)을 거쳐, 행동(Action)을 취하는 능..."
+  },
+  {
+    "source": "geeknews",
+    "title": "Costco는 안티-Amazon이다",
+    "link": "https://news.hada.io/topic?id=31114",
+    "원문링크": "https://news.hada.io/topic?id=31114",
+    "요약정보": "실패 사유: 대체 URL 검색 실패, 시도 URL: https://int.japanesetaste.com/ko-kr/blogs/japanese-taste-blog/36-costco-japan-items-that-you-can-find-on-japanese-taste?region=int&country=kr"
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "The only AI glossary you’ll need this year",
+    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "원문링크": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "요약정보": "Media & Entertainment TechCrunch Brand Studio Artificial intelligence is rewriting the world, and simultaneously inventing a whole new language to describe how it’s doing it. Sit in on any product meeting, pitch, or panel these days, and you’ll hear people toss around LLMs, RAG, RLHF, and a dozen other terms that can make even very smart people in the tech world feel a little insecure. This glossary is our attempt to fix that: pain-English definitions of the AI terms you’re most likely to actual..."
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "원문링크": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "요약정보": "Media & Entertainment TechCrunch Brand Studio The browser wars have entered a new phase this year: The fight isn’t just over search results anymore — it’s over which company’s AI gets to act on your behalf inside the browser. Google Chrome and Apple’s Safari still dominate the market overall, with Chrome’s edge coming largely from how aggressively it has woven generative AI into search. But 2026 has brought a wave of new entrants — from well-funded startups to Big Tech — all betting that the bro..."
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "원문링크": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "요약정보": "Media & Entertainment TechCrunch Brand Studio Replacing people with AI doesn’t seem to be that easy to do, if Meta can be seen as an example. Reutersreportsthat at an internal town hall Thursday, CEO Mark Zuckerberg told staff that the pace of AI agent development had not “accelerated in the way” executives had previously expected them to. Earlier this year, Metalaid off some 8,000 employees— approximately 10% of its corporate workforce — and reassigned another 7,000 to various AI groups, includ..."
+  }
+]

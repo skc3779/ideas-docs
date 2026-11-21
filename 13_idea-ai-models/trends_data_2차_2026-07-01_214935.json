@@ -1,0 +1,23 @@
+[
+  {
+    "source": "OpenAI Blog",
+    "title": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "원문링크": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "요약정보": "A new picture of global AI adoption. ChatGPT adoption is widening and deepening around the world. New OpenAI Signals data shows that people use ChatGPT more often and for a broader range of tasks over time, while its user base is becoming more global and more diverse. Using aggregated data, OpenAI Signals measures how people interact with Individual ChatGPT plans (these include Free, Go, Plus, and Pro plans) over time. This analysis offers a view into how Individual AI usage is evolving as ChatG..."
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "원문링크": "https://openai.com/index/introducing-genebench-pro",
+    "요약정보": "A research-level benchmark measuring how AI agents navigate ambiguity and make consequential judgments in computational biology. Scientific data rarely arrive with instructions. Researchers must decide whether a pattern reflects biology or noise, whether the data can support the question being asked, and how each result should change what they do next. AI agents are increasingly capable of executing complex analyses, but real scientific research also depends not simply on recalling facts or foll..."
+  },
+  {
+    "source": "OpenAI Blog",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "원문링크": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "요약정보": "Using population-level analysis to debug tricky crashes in our data infrastructure. OpenAI’s models and agents increasingly rely on scalable data infrastructure in order to search for relevant data at inference time: when the models are thinking about your question. Some of these services are written in C++, whose low-level control of the system lets us maximize performance and minimize memory usage. Those efficiency benefits are important as we scale, but C++’s lack of memory safety means that ..."
+  }
+]

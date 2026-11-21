@@ -1,0 +1,44 @@
+[
+  {
+    "source": "ByteByteGo",
+    "title": "How OpenAI Delivers Low-Latency Voice AI for 900M Users",
+    "link": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
+    "원문링크": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
+    "요약정보": "Matic is the first visually intelligent robot vacuum that sees your home like you do, so it can clean how you want it to.Matic’s hero features: Runs entirely on cameras to deftly navigate obstacles Recognizes floor types to auto-switch between vacuuming and mopping Big wheels and a height-adjustable cleaning head handle thick rugs Quieter than conversations at 55 dB Handles pet hair without clogging or tangling A single bag collects dry and wet waste—diaper-salts gel dirty water, antimicrobial p..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "Inside Thinking Machines’ Interaction Models",
+    "link": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
+    "원문링크": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
+    "요약정보": "Runnpx workos@latestand an AI agent will inspect your project, detect your framework, and add AuthKit directly to your codebase. This is not a generic starter template. The agent reads your actual app, writes the integration where it belongs, then typechecks and builds so it can fix errors along the way. AuthKit gives you hosted auth, customizable UI, MFA, social login, session management, and a path to enterprise features like SSO and SCIM when you need them. Free up to 1 million MAUs. What fee..."
+  },
+  {
+    "source": "ByteByteGo",
+    "title": "How AI Agents Manage Memory and Avoid Forgetfulness",
+    "link": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "원문링크": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "요약정보": "When devs use AI to generate thousands of lines of unverified code, you risk a codebase slopocalypse. The review step becomes your team’s bottleneck, and the last thing standing between a subtle bug and production. Greptile reviews each PR with full repo context and learns your team’s conventions over time from comments, reactions, and what gets merged. It flags real issues and suggests fixes that match your team, not generic best practices. ✅ Recently launchedTREXruns your code, not just reads ..."
+  },
+  {
+    "source": "The Verge",
+    "title": "Mystery box shows are complicated for everyone — even the actors",
+    "link": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
+    "원문링크": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. The team behind Silo talks about managing the series as it gets even bigger in season 3. Posts from this author will be added to your daily email digest and your homepage feed. See All byAndrew Webster Posts from this topic will be added to your daily email digest and your homepage feed. See All byAndrew Webster Posts from this author will be added to your daily email digest and your homepage feed. See All byA..."
+  },
+  {
+    "source": "The Verge",
+    "title": "BitTorrent&#8217;s disastrous, legendary, and controversial story",
+    "link": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+    "원문링크": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. The file-sharing app launched 25 years ago and unleashed a wave of piracy that would shake Hollywood to its core. Posts from this author will be added to your daily email digest and your homepage feed. See All byJanko Roettgers Posts from this author will be added to your daily email digest and your homepage feed. See All byJanko Roettgers Twenty-five years ago today, a young, little-known programmer by the na..."
+  },
+  {
+    "source": "The Verge",
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "원문링크": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "요약정보": "Posts from this topic will be added to your daily email digest and your homepage feed. A government stake could help the company avoid onerous regulation. Posts from this author will be added to your daily email digest and your homepage feed. See All byRobert Hart Posts from this author will be added to your daily email digest and your homepage feed. See All byRobert Hart OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administra..."
+  }
+]

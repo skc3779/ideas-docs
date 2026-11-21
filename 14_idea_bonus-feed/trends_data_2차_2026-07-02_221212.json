@@ -1,0 +1,65 @@
+[
+  {
+    "source": "The Rundown AI",
+    "title": "Anthropic's Fable returns worldwide",
+    "link": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+    "원문링크": "https://www.therundown.ai/p/anthropic-fable-returns-worldwide",
+    "요약정보": "PLUS: Use Google’s Design.md tools to build better websites Read Online|Sign Up|Advertise Good morning, {{ first_name | AI enthusiasts }}.On June 12, the U.S. government pulled the most powerful AI available to the public offline. Nearly three weeks later, Anthropic's Fable 5 is finally back. The AI world is rejoicing at the global return, but it comes with new guardrails and a government seat at the pre-launch table for future models — a sign that future frontier deployments now run directly th..."
+  },
+  {
+    "source": "The Rundown AI",
+    "title": "Sonnet 5 ships as Washington frees Fable",
+    "link": "https://www.therundown.ai/p/sonnet-5-ships-as-washington-frees-fable",
+    "원문링크": "https://www.therundown.ai/p/sonnet-5-ships-as-washington-frees-fable",
+    "요약정보": "PLUS: Create winning ads with Claude in one command Read Online|Sign Up|Advertise Good morning, {{ first_name | AI enthusiasts }}.Anthropic's first model in its '5' tier is here… But it won’t be holding the spotlight for long. The newly released Sonnet 5 is an upgrade over its predecessor, but not at the levels we’ve become accustomed to —  and it arrives at a bit of an awkward moment with the far more powerful and celebrated Fable and Mythos models now officially set to return.Editor’s Note:Ant..."
+  },
+  {
+    "source": "The Rundown AI",
+    "title": "Meta's brain-reading AI leaves letters behind",
+    "link": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+    "원문링크": "https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind",
+    "요약정보": "PLUS: Automate any manual task with Record & Replay Read Online|Sign Up|Advertise Good morning, {{ first_name | AI enthusiasts }}.Meta's first brain-reading AI could only spell things out one character at a time. Version 2 just graduated to whole sentences. Brain2Qwerty v2 decodes those sentences from a non-invasive scan with accuracy starting to close in on surgical setups — the difference between a rare operation and something far more people who have lost speech could one day use. In today’s ..."
+  },
+  {
+    "source": "Stratechery",
+    "title": "Summer Break: Week of June 29",
+    "link": "https://stratechery.com/2026/summer-break-week-of-june-29/",
+    "원문링크": "https://stratechery.com/2026/summer-break-week-of-june-29/",
+    "요약정보": "Learn MoreMember Forum Learn MoreMember Forum Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Monday, July 6. Dithering,Sharp Tech, andSharp Chinawill also return the week of July 6.Greatest of All TalkandAsianometrywill continue to publish. The full Stratechery posting schedule ishere. The most popular and most important posts on Stratechery by year. Explore all free articles on Stratechery. Explore all posts on Stratech..."
+  },
+  {
+    "source": "Stratechery",
+    "title": "2026.26: Summer Vibes",
+    "link": "https://stratechery.com/2026/summer-vibes/",
+    "원문링크": "https://www.pinterest.com/ideas/color-trends-2026-2027/907870302128/",
+    "요약정보": "ExploreWhen autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.Log inSign up ExploreWhen autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.Log inSign up When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestu..."
+  },
+  {
+    "source": "Stratechery",
+    "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+    "link": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+    "원문링크": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+    "요약정보": "Learn MoreMember Forum Learn MoreMember Forum This week’s Stratechery interview is with Figma co-founder and CEODylan Field. Field was a Thiel Fellow who dropped out of Brown in 2012 to start Figma. Figma was born of a technical breakthrough that leveraged WebGL to deliver powerful graphical capabilities in the browser; the browser made Figma collaborative, what I callthe operating system of design. Figma has had a fascinating road: the company accepted an acquisition offer from Adobe in 2022, b..."
+  },
+  {
+    "source": "Simon Willison's Blog",
+    "title": "Quoting Anthropic",
+    "link": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+    "원문링크": "https://nicoappel.github.io/2025/10/04/effective-context-engineering-for-ai-agents.html",
+    "요약정보": "Oct 4, 2025•Anthropic Engineering Trying to leverage AI to create content ends up in creating a better or worse version of AI slop. That’s the rule. Everything else is a rare exception. My working hypothesis and basis for current experiments is that we have to work backwards, meaning… How to even have a chance of landing in exception land? Context engineering. This is the not only the logical, but technically necessary consequence of LLMs becoming more “agentic”, meaning they run tools in a loop..."
+  },
+  {
+    "source": "Simon Willison's Blog",
+    "title": "Nano Banana 2 Lite",
+    "link": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+    "원문링크": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+    "요약정보": "We’re making it easier to experiment and scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficient Gemini Image model, and Gemini Omni Flash for high-quality video generation and conversational editing. Today, we’re making it faster and easier to experiment, refine and scale your ideas with two major releases: Building with generative media is often about creative iteration. With these two models, developers can build comprehensive, end-to-end multimedia experiences that connect..."
+  },
+  {
+    "source": "Simon Willison's Blog",
+    "title": "What's new in Claude Sonnet 5",
+    "link": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+    "원문링크": "https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/",
+    "요약정보": "Toggle main menu9to5Mac LogoGo to the 9to5Mac home pageSwitch site9to5Toys9to5Google Logo9to5GoogleElectrekDrone DJ LogoDroneDJSpace ExploredAboutPrivacyToggle social menuToggle dark modeSearch for:SubmitToggle search formForumsStorePodcastsApple@WorkHappy Hour9to5Mac DailyOvertimeiPhoneiPhoneMacMacMacBook ProMacBook AiriMacMac miniMac StudioMac ProiPadiPad ProiPad AiriPad miniiPadiPadOSWatchApple WatchApple Watch UltraApple HealthApple Watch SEVisionVision ProvisionOSMusic and TVApple MusicAirP..."
+  }
+]
